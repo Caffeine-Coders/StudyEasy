@@ -15,9 +15,7 @@ npm start
 **when you pull do make sure Material Ui is installed in yours. else run the command 
 ```
 npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
-<<<<<<< HEAD
- 
-=======
+
 //to install git pages to publish the page
 npm install gh-pages --save-dev
 //every time you want to merge to main and publish it on the page 
